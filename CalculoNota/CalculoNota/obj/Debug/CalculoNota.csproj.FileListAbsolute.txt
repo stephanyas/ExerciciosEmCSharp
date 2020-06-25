@@ -1,0 +1,10 @@
+V:\__Stephany\ProjetosCsharpNet\CalculoNota\CalculoNota\bin\Debug\CalculoNota.exe.config
+V:\__Stephany\ProjetosCsharpNet\CalculoNota\CalculoNota\bin\Debug\CalculoNota.exe
+V:\__Stephany\ProjetosCsharpNet\CalculoNota\CalculoNota\bin\Debug\CalculoNota.pdb
+V:\__Stephany\ProjetosCsharpNet\CalculoNota\CalculoNota\obj\Debug\CalculoNota.csprojAssemblyReference.cache
+V:\__Stephany\ProjetosCsharpNet\CalculoNota\CalculoNota\obj\Debug\CalculoNota.Form1.resources
+V:\__Stephany\ProjetosCsharpNet\CalculoNota\CalculoNota\obj\Debug\CalculoNota.Properties.Resources.resources
+V:\__Stephany\ProjetosCsharpNet\CalculoNota\CalculoNota\obj\Debug\CalculoNota.csproj.GenerateResource.cache
+V:\__Stephany\ProjetosCsharpNet\CalculoNota\CalculoNota\obj\Debug\CalculoNota.csproj.CoreCompileInputs.cache
+V:\__Stephany\ProjetosCsharpNet\CalculoNota\CalculoNota\obj\Debug\CalculoNota.exe
+V:\__Stephany\ProjetosCsharpNet\CalculoNota\CalculoNota\obj\Debug\CalculoNota.pdb

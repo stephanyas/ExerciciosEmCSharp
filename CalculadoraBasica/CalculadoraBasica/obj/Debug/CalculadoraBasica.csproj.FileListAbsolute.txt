@@ -1,0 +1,10 @@
+V:\__Stephany\ProjetosCsharpNet\CalculadoraBasica\CalculadoraBasica\bin\Debug\CalculadoraBasica.exe.config
+V:\__Stephany\ProjetosCsharpNet\CalculadoraBasica\CalculadoraBasica\bin\Debug\CalculadoraBasica.exe
+V:\__Stephany\ProjetosCsharpNet\CalculadoraBasica\CalculadoraBasica\bin\Debug\CalculadoraBasica.pdb
+V:\__Stephany\ProjetosCsharpNet\CalculadoraBasica\CalculadoraBasica\obj\Debug\CalculadoraBasica.csprojAssemblyReference.cache
+V:\__Stephany\ProjetosCsharpNet\CalculadoraBasica\CalculadoraBasica\obj\Debug\CalculadoraBasica.Form1.resources
+V:\__Stephany\ProjetosCsharpNet\CalculadoraBasica\CalculadoraBasica\obj\Debug\CalculadoraBasica.Properties.Resources.resources
+V:\__Stephany\ProjetosCsharpNet\CalculadoraBasica\CalculadoraBasica\obj\Debug\CalculadoraBasica.csproj.GenerateResource.cache
+V:\__Stephany\ProjetosCsharpNet\CalculadoraBasica\CalculadoraBasica\obj\Debug\CalculadoraBasica.csproj.CoreCompileInputs.cache
+V:\__Stephany\ProjetosCsharpNet\CalculadoraBasica\CalculadoraBasica\obj\Debug\CalculadoraBasica.exe
+V:\__Stephany\ProjetosCsharpNet\CalculadoraBasica\CalculadoraBasica\obj\Debug\CalculadoraBasica.pdb

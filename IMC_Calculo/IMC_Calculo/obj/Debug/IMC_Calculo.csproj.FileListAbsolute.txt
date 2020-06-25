@@ -1,0 +1,10 @@
+V:\__Stephany\ProjetosCsharpNet\IMC_Calculo\IMC_Calculo\bin\Debug\IMC_Calculo.exe.config
+V:\__Stephany\ProjetosCsharpNet\IMC_Calculo\IMC_Calculo\bin\Debug\IMC_Calculo.exe
+V:\__Stephany\ProjetosCsharpNet\IMC_Calculo\IMC_Calculo\bin\Debug\IMC_Calculo.pdb
+V:\__Stephany\ProjetosCsharpNet\IMC_Calculo\IMC_Calculo\obj\Debug\IMC_Calculo.csprojAssemblyReference.cache
+V:\__Stephany\ProjetosCsharpNet\IMC_Calculo\IMC_Calculo\obj\Debug\IMC_Calculo.Form1.resources
+V:\__Stephany\ProjetosCsharpNet\IMC_Calculo\IMC_Calculo\obj\Debug\IMC_Calculo.Properties.Resources.resources
+V:\__Stephany\ProjetosCsharpNet\IMC_Calculo\IMC_Calculo\obj\Debug\IMC_Calculo.csproj.GenerateResource.cache
+V:\__Stephany\ProjetosCsharpNet\IMC_Calculo\IMC_Calculo\obj\Debug\IMC_Calculo.csproj.CoreCompileInputs.cache
+V:\__Stephany\ProjetosCsharpNet\IMC_Calculo\IMC_Calculo\obj\Debug\IMC_Calculo.exe
+V:\__Stephany\ProjetosCsharpNet\IMC_Calculo\IMC_Calculo\obj\Debug\IMC_Calculo.pdb

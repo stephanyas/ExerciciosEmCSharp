@@ -1,0 +1,10 @@
+V:\__Stephany\ProjetosCsharpNet\SplashScreen\SplashScreen\bin\Debug\SplashScreen.exe.config
+V:\__Stephany\ProjetosCsharpNet\SplashScreen\SplashScreen\bin\Debug\SplashScreen.exe
+V:\__Stephany\ProjetosCsharpNet\SplashScreen\SplashScreen\bin\Debug\SplashScreen.pdb
+V:\__Stephany\ProjetosCsharpNet\SplashScreen\SplashScreen\obj\Debug\SplashScreen.csprojAssemblyReference.cache
+V:\__Stephany\ProjetosCsharpNet\SplashScreen\SplashScreen\obj\Debug\SplashScreen.AboutBox1.resources
+V:\__Stephany\ProjetosCsharpNet\SplashScreen\SplashScreen\obj\Debug\SplashScreen.Properties.Resources.resources
+V:\__Stephany\ProjetosCsharpNet\SplashScreen\SplashScreen\obj\Debug\SplashScreen.csproj.GenerateResource.cache
+V:\__Stephany\ProjetosCsharpNet\SplashScreen\SplashScreen\obj\Debug\SplashScreen.csproj.CoreCompileInputs.cache
+V:\__Stephany\ProjetosCsharpNet\SplashScreen\SplashScreen\obj\Debug\SplashScreen.exe
+V:\__Stephany\ProjetosCsharpNet\SplashScreen\SplashScreen\obj\Debug\SplashScreen.pdb
