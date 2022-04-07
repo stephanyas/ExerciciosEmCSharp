@@ -8,13 +8,3 @@ V:\__Stephany\ProjetosCsharpNet\CalculadoraBasica\CalculadoraBasica\obj\Debug\Ca
 V:\__Stephany\ProjetosCsharpNet\CalculadoraBasica\CalculadoraBasica\obj\Debug\CalculadoraBasica.csproj.CoreCompileInputs.cache
 V:\__Stephany\ProjetosCsharpNet\CalculadoraBasica\CalculadoraBasica\obj\Debug\CalculadoraBasica.exe
 V:\__Stephany\ProjetosCsharpNet\CalculadoraBasica\CalculadoraBasica\obj\Debug\CalculadoraBasica.pdb
-C:\Users\Stephany\Documents\Repositorio\ExerciciosEmCSharp\CalculadoraBasica\CalculadoraBasica\bin\Debug\CalculadoraBasica.exe.config
-C:\Users\Stephany\Documents\Repositorio\ExerciciosEmCSharp\CalculadoraBasica\CalculadoraBasica\bin\Debug\CalculadoraBasica.exe
-C:\Users\Stephany\Documents\Repositorio\ExerciciosEmCSharp\CalculadoraBasica\CalculadoraBasica\bin\Debug\CalculadoraBasica.pdb
-C:\Users\Stephany\Documents\Repositorio\ExerciciosEmCSharp\CalculadoraBasica\CalculadoraBasica\obj\Debug\CalculadoraBasica.csprojAssemblyReference.cache
-C:\Users\Stephany\Documents\Repositorio\ExerciciosEmCSharp\CalculadoraBasica\CalculadoraBasica\obj\Debug\CalculadoraBasica.Form1.resources
-C:\Users\Stephany\Documents\Repositorio\ExerciciosEmCSharp\CalculadoraBasica\CalculadoraBasica\obj\Debug\CalculadoraBasica.Properties.Resources.resources
-C:\Users\Stephany\Documents\Repositorio\ExerciciosEmCSharp\CalculadoraBasica\CalculadoraBasica\obj\Debug\CalculadoraBasica.csproj.GenerateResource.cache
-C:\Users\Stephany\Documents\Repositorio\ExerciciosEmCSharp\CalculadoraBasica\CalculadoraBasica\obj\Debug\CalculadoraBasica.csproj.CoreCompileInputs.cache
-C:\Users\Stephany\Documents\Repositorio\ExerciciosEmCSharp\CalculadoraBasica\CalculadoraBasica\obj\Debug\CalculadoraBasica.exe
-C:\Users\Stephany\Documents\Repositorio\ExerciciosEmCSharp\CalculadoraBasica\CalculadoraBasica\obj\Debug\CalculadoraBasica.pdb
